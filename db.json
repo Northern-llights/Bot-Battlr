@@ -1,0 +1,7 @@
+{
+  "bots": [
+    { "id": 1, "name": "Cyber Warrior", "health": 80, "damage": 50, "armor": 20, "bot_class": "Assault" },
+    { "id": 2, "name": "Guardian X", "health": 100, "damage": 30, "armor": 40, "bot_class": "Defender" },
+    { "id": 3, "name": "Medic Bot", "health": 60, "damage": 10, "armor": 10, "bot_class": "Medic" }
+  ]
+}
